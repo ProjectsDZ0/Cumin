@@ -1,0 +1,114 @@
+body{
+    background-color: rgb(217, 255, 168);
+}
+.box{
+    height: 40px;
+    background: rgb(26, 216, 127);
+    border: 10px solid rgb(255, 208, 80);
+    margin-bottom: 10px;
+    padding: 20px;
+    padding: 10px 15px 20px 20px;
+    padding: 20px;
+    text-align: center;
+    font-weight: 900;
+    color: rgb(255, 208, 80);
+    font-family: 'Playfair Display', serif;
+    position: relative;
+}
+.photo1{
+    display: inline-block;
+    height: 75px;
+    position: absolute;
+    top: 2px;
+    left: 5px;
+}
+.ooo{
+    height: 40px;
+    width: 130px;
+    text-align: right;
+    display: inline-block;
+    position: absolute;
+    right: 10px;
+    top: 15px;
+    font-weight: 400;
+    color: rgb(255, 208, 80);
+    font-family: 'Playfair Display', serif;
+}
+.photo2{
+    height: 120px;
+    position: absolute;
+    right: 10px;
+}
+.block{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(147, 199, 43);
+    display: inline-block;
+    position: relative;
+    
+}
+
+.block-1{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(51, 128, 35);
+    position: absolute ;
+ 
+}
+.b1{
+    width: 200px;
+    position: absolute;
+    display: inline-block;
+    right: 75px;
+    visibility: hidden;
+}
+.bj{
+    border-radius: 50px;
+    top: 60px;
+    right: 100px;
+    display: inline-block;
+    position: absolute;
+    height: 200px;
+}
+
+.block2:hover{
+    display: none;
+}
+
+.chanwoo{
+    display: inline-block;
+    position: absolute;
+    height: 200px;
+    right: 10px;
+    top: 60px;
+    border-radius: 50px;
+}
+
+
+.box1:hover{
+    display: none;
+}
+
+.md{
+    display: inline-block;
+    position: absolute;
+    height: 200px;
+    border-radius: 50px;
+    width: 150px;
+}
+
+.ph1:hover{
+    display: none;
+}
+.don{
+    display: inline-block;
+    position: absolute;
+    height: 200px;
+    border-radius: 50px;
+    width: 200px;
+    right: 10px;
+}
+.p1:hover{
+    display: none;
+}
+
